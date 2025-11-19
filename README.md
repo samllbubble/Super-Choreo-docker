@@ -7,13 +7,13 @@ OPENUSCF=1   //使用choreo美国这条变量设置1 ，其它0。 设置1隧道
 
 SURL=https://sub.smartdns.eu.org/upload-ea4909ef-7ca6-4b46-bf2e-6c0
 
-UUID=ea4909ef-7ca6-4b46-bf2e-6c07896ef901
+UUID=ea4909ef-7ca6-4b46-bf2e-6c07896ef403
 
 NSERVER=nazhav1.gamesover.eu.org
 
 NKEY=qL7B61misbNGiLMBDxXJSBztCna5Vwsy
 
-SNAME=Cloud.Cloudcat.One
+SNAME=Choreo.dev-github-proton
 
 NVERSION=V1
 
